@@ -1,5 +1,5 @@
-# GSE234443 Foxm1 Knockdown RNA-seq Anlaysis
-## Backgorund
+# GSE234443 Foxm1 Knockdown RNA-seq Analysis
+## Background
 FOXM1 (Forkhead Box M1) is a transcription factor that plays a key role in cell cycle regulation, proliferation, and DNA damage repair. It is frequently overexpressed in cancer and in associated with tumor progression, making it a relevant target for understanding gene regulatory networks in  disease contexts. This project investigates the transcriptional consequences of FOXM1 knockdown using RNA-seq data.
 ## Data
 - **Source:** [GEO Series GSE234443](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE234443)
